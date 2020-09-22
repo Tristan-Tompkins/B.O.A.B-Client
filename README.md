@@ -19,11 +19,11 @@ Ballin' On a Budget is a one stop shop for organizing all your budgeting needs. 
 - Mongoose
 
 ## Preview
-![Preview](https://imgur.com/3LIRuua)
+![Preview](https://i.imgur.com/xv20G4I.png)
 ## Planning
 
 ## Wireframe
-![Wireframe](https://imgur.com/3LIRuua)
+![Wireframe](https://i.imgur.com/3LIRuua.png)
 
 ## User Stories
 - As a user I want to be able to sign-up / sign-in / change-passowrd
