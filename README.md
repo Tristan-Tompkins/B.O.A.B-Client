@@ -1,5 +1,5 @@
 # B.O.A.B | Personal Budget Calculator
-Ballin' On a Budget is a one stop shop for organizing all your budgeting needs. This application is is designed to help you visualize your spending, and get a better understanding of where your dollar is going.
+B.O.A.B is a one stop shop for organizing all your budgeting needs. "Trust you me I know it's scary to think about these things let alone do something about it." This application is is designed to help you visualize your spending, and get a better understanding of where your dollar is going. "Imma teach you to spend them dollas and to also pick them up"
 
 ## Links
 - Client Application: <>
