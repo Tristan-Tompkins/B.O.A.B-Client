@@ -12,8 +12,8 @@ const authenticatedOptions = (
 
 const unauthenticatedOptions = (
   <Fragment>
-    <Nav.Link href="#sign-up">Sign Up</Nav.Link>
-    <Nav.Link href="#sign-in">Sign In</Nav.Link>
+    <Nav.Link className="links" href="#sign-up">Sign Up</Nav.Link>
+    <Nav.Link className="links" href="#sign-in">Sign In</Nav.Link>
   </Fragment>
 )
 
@@ -24,7 +24,7 @@ const unauthenticatedOptions = (
 // )
 
 const Header = ({ user }) => (
-  <Navbar className="nav" bg="dark" variant="dark" expand="md">
+  <Navbar className="nav" expand="md">
     <Navbar.Brand href="#expenses">
       B.O.A.B
     </Navbar.Brand>

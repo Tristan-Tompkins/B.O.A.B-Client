@@ -1,25 +1,15 @@
-import React from 'react'
-import { MDBCol, MDBContainer, MDBRow, MDBFooter } from 'mdbreact'
+import React, { Fragment } from 'react'
+import Nav from 'react-bootstrap/Nav'
+import Navbar from 'react-bootstrap/Navbar'
 
 const Footer = () => (
-  <MDBFooter className="main-footer font-small pt-4 mt-4">
-    <MDBContainer className="text-center text-md-left">
-      <MDBRow>
-        <MDBCol sm="4">
-          <h5 className="title">My gitHub repo</h5>
-          <a href="https://github.com/Feeling-IFFE">My gitHub</a>
-        </MDBCol>
-        <MDBCol md="2">
-          <h5 className="title">{'Tristan\'s gitHub'}</h5>
-          <ul>
-            <li className="list-unstyled">
-              <a href="https://github.com/Tristan-Tompkins">gitHub</a>
-            </li>
-          </ul>
-        </MDBCol>
-      </MDBRow>
-    </MDBContainer>
-  </MDBFooter>
+  <Navbar className="nav" expand="md">
+    <Navbar.Brand href="#expenses">
+      B.O.A.B
+    </Navbar.Brand>
+    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+    <Navbar.Collapse id="basic-navbar-nav">
+    </Navbar.Collapse>
 )
 
 export default Footer

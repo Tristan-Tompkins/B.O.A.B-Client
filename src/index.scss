@@ -1,6 +1,10 @@
 @import '~bootstrap/scss/bootstrap';
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&display=swap');
 // styling for everything
+html {
+  background-color: #fefae0;
+}
+
 * {
   font-family: 'Barlow Semi Condensed', sans-serif;
 }
@@ -71,7 +75,7 @@
 // }
 
 .container {
-  background-color: white;
+  backface-visibility: hidden;
 }
 
 .mid {
@@ -86,4 +90,21 @@
 .text-right {
   display: inline;
   float: right;
+}
+
+.back {
+  background-color: #fefae0;
+  background-size: 100%;
+}
+
+.nav {
+  background-color:  #fefae0;
+}
+
+.links {
+  color: #fefae0;
+}
+
+.row-auth {
+  size: 100%;
 }
