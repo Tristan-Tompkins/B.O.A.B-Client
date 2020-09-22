@@ -19,7 +19,7 @@ Ballin' On a Budget is a one stop shop for organizing all your budgeting needs. 
 - Mongoose
 
 ## Preview
-![Preview](https://i.imgur.com/xv20G4I.png)
+![Preview](https://imgur.com/3LIRuua)
 ## Planning
 
 ## Wireframe
