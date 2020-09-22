@@ -23,7 +23,7 @@ Ballin' On a Budget is a one stop shop for organizing all your budgeting needs. 
 ## Planning
 
 ## Wireframe
-![Wireframe](https://imgur.com/5e380cae-7518-40c9-ab2e-6603231d35d3)
+![Wireframe](https://imgur.com/3LIRuua)
 
 ## User Stories
 - As a user I want to be able to sign-up / sign-in / change-passowrd
