@@ -8,6 +8,10 @@ import SignUp from '../SignUp/SignUp'
 import SignIn from '../SignIn/SignIn'
 import SignOut from '../SignOut/SignOut'
 import ChangePassword from '../ChangePassword/ChangePassword'
+import IndexExpenses from '../Expenses/IndexExpenses'
+// import Footer from '../Footer/Footer'
+// import EditExpense from '../Expenses/EditExpense'
+import HomePage from '../Home/HomePage'
 
 class App extends Component {
   constructor () {
@@ -53,6 +57,12 @@ class App extends Component {
           )} />
           <AuthenticatedRoute user={user} path='/change-password' render={() => (
             <ChangePassword msgAlert={this.msgAlert} user={user} />
+          )} />
+          <Route exact path='/' render={() => (
+            <HomePage msgAlert={this.msgAlert} setUser={this.setUser} />
+          )} />
+          <AuthenticatedRoute user={user} path='/expenses' render={(expenseprops) => (
+            <IndexExpenses msgAlert={this.msgAlert} user={user} expenseprops={expenseprops}/>
           )} />
         </main>
       </Fragment>
