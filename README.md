@@ -1,5 +1,5 @@
-# B.O.A.B | Personal Budget Calculator
-B.O.A.B is a one stop shop for organizing all your budgeting needs. "Trust you me I know it's scary to think about these things let alone do something about it." This application is is designed to help you visualize your spending, and get a better understanding of where your dollar is going. "Imma teach you to spend them dollas and to also save them too!"
+# Foundation Financial | Personal Budget Calculator
+Foundation Financial is a one stop shop for organizing all your budgeting needs. "Trust you me I know it's scary to think about these things let alone do something about it." This application is is designed to help you visualize your spending, and get a better understanding of where your dollar is going. "Imma teach you to spend them dollas and to also save them too!"
 
 ## Links
 - Client Application: <>
